@@ -1,12 +1,12 @@
 # Code description
 
-The code given in this folder provides a skeleton and some functions that you can use to develop your solution.
+The code given in this folder provides a skeleton and some functions that carry out the functionality of the Financial Transactions Analysis System.
 
 ## Installation
 
 Several packages are required for this code to work. They are listed in file `requirements.txt`.
 
-It is recommended that you create a dedicated Python environment for this assignment. That is, do not install the necessary packages in your system-wide Python environment.
+It is recommended that you create a dedicated Python environment to run this project. That is, do not install the necessary packages in your system-wide Python environment.
 
 To create a Python environment, you can use [conda](https://www.anaconda.com/download) or venv/pip.
 
